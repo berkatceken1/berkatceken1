@@ -1,4 +1,4 @@
-#  Hi I’am Berk.
+#  Hi I’m Berk.
 🧑🏻‍💻 As a computer engineering student, I share my technology journey and what I've learned.<br>👨🏻‍🎓 I am a student in Computer Engineering at Erciyes University, Turkey.<br>🔭 I’m currently working on Node.JS.<br>🌱 I’m currently learning React Native.
 
 
